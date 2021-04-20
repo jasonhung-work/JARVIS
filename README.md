@@ -16,4 +16,4 @@ Tatung System Technologies Inc JARVIS Demo
     └── vocab.txt        # label
 </code></pre>
 
-資料使用Mozilla Common Voice <https://commonvoice.mozilla.org/zh-TW/datasets>，請自行前往下載
+資料使用Mozilla Common Voice <https://commonvoice.mozilla.org/zh-TW/datasets>，請自行前往下載，並依照train.json、validation.json與目錄結構放置資料
